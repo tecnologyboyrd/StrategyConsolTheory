@@ -1,0 +1,15 @@
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\bin\Debug\net6.0\ConsoleApp_StrategyPattern.exe
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\bin\Debug\net6.0\ConsoleApp_StrategyPattern.deps.json
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\bin\Debug\net6.0\ConsoleApp_StrategyPattern.runtimeconfig.json
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\bin\Debug\net6.0\ConsoleApp_StrategyPattern.dll
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\bin\Debug\net6.0\ConsoleApp_StrategyPattern.pdb
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.AssemblyInfo.cs
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.dll
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\refint\ConsoleApp_StrategyPattern.dll
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.pdb
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ConsoleApp_StrategyPattern.genruntimeconfig.cache
+C:\Users\lperez\source\repos\ConsoleApp_StrategyPattern\ConsoleApp_StrategyPattern\obj\Debug\net6.0\ref\ConsoleApp_StrategyPattern.dll
